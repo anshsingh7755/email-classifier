@@ -47,8 +47,4 @@ If you want to contact me, you can reach me through below handles.
 
 </div>
 
-© 2021 Saurav Mukherjee
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
